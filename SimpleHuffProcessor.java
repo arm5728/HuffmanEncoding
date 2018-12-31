@@ -1,21 +1,3 @@
-/*  Student information for assignment:
- *
- *  On OUR honor, Adrian Melendez Relli and Ziyi Liew this programming assignment is OUR own work
- *  and WE have not provided this code to any other student.
- *
- *  Number of slip days used: 0 
- *
- *  Student 1 (Student whose turnin account is being used)
- *  UTEID: arm5728
- *  email address: adrianmelendezrelli@gmail.com
- *  Grader name: ETHAN
- *
- *  Student 2
- *  UTEID: zl7279
- *  email address: zliew@utexas.edu
- *
- */
-
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
