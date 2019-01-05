@@ -1,5 +1,5 @@
 # HuffmanEncoding
-Adrian Melendez Relli
+Adrian Melendez Relli and Ziyi Liew
 
 Fall 2018
 
